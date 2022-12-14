@@ -1,3 +1,4 @@
+<html>
 <body style="text-align:center">
    <header>
       <h1>
@@ -43,3 +44,4 @@
    <a href="https://skiliox.com">My main project</a>
    </footer>
 </body>
+</html>
