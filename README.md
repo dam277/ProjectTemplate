@@ -46,6 +46,7 @@
     <a href="https://en.wikipedia.org/wiki/SQL">
         <img height="30" alt="SQLite" src="https://www.fofsoft.com/images/illustration/sqlite.png" />
     </a>
+    <sub> Libraries </sub>
 </div>
 <div align="center">
     <h2 align="center">Table of Contents</h2>
