@@ -37,80 +37,39 @@
      <a href="https://www.php.net/">
         <img height="30" alt="PHP" src="https://th.bing.com/th/id/OIP.bWdhB1dI1fYIYszoMnb_7AAAAA?pid=ImgDet&rs=1" />
      </a>
-     </a>
+     <br />
+     <sub> Databases </sub>
+     <br />
      <a href="https://en.wikipedia.org/wiki/SQL">
         <img height="30" alt="SQL" src="https://img.favpng.com/16/0/21/sql-server-logo-png-favpng-pXyDxFrAFhWQUeLq6SrgeND1g.jpg" />
      </a>
+    <a href="https://en.wikipedia.org/wiki/SQL">
+        <img height="30" alt="SQLite" src="https://www.fofsoft.com/images/illustration/sqlite.png" />
+    </a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-fefe
-
-
-<html>
-<body>
-   <header>
-      <h1>
-         <p align="center">ProjectTemplate</p>
-      </h1>
-
-   ## <p align="center">Introduction</p>
-   <p align="center">Hi, welcome to my project, my name's Damien.</p>
-   <p align="center">I am a developer passionated by programming languages</p>
-
-   
-
-   </p>
-   <hr><p align="center">
-   
-   ## <p align="center">Table of Contents</p>
+<div align="center">
+    <h2 align="center">Table of Contents</h2>
   
    [What's the project ?](#the-project)   <br>
    [Features](#features)                   <br>
    [Elements to do](#elements-to-do)       <br>
    [Contributors](#contributors)
-   
-   
-   </header>
-   <main>
-   <hr>
+</div>
 
+<div align="center">
+    
    ## <p align="center">The project</p>
 
-   <p align="center">Features</p>
+   ## <p align="center">Features</p>
 
    ## <p align="center">Elements to do</p>
 
    ## <p align="center">Contributors</p>
-
-   <hr>
-   </main>
-   <footer>
-
-   ## <p align="center">Contributors</p>
-   
-   <p align="center">
    <b>
-      [Damien Loup](https://github.com/dam277)</u>
+       <a href="https://github.com/dam277">Damien Loup</a>
    </b>                     
    <br>
    <a href="https://dam277.github.io/P_Portfolio/">Portfolio</a>       <br>
    <a href="https://skiliox.com">My main project</a>
    </p>
-   </footer>
-</body>
-</html>
+</div>
