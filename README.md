@@ -5,7 +5,7 @@
 </div>
 <div align="center">
     <h2>Languages and libraries used for this project</h2>
-    <h3> Software </h3>
+    <h3> Languages </h3>
     <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Cpp.png" />
     <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Csharp.png" />
     <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Java.png" />
