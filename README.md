@@ -6,27 +6,27 @@
 <div align="center">
     <h2>Languages and libraries used for this project</h2>
     <h3> Languages </h3>
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Cpp.png" />
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Csharp.png" />
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Java.png" />
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Html.png" />
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Css.png" />
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Javascript.png" />
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Typescript.png" />
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Php.png" />
-    <img height="40" width="100px" src="https://github.com/dam277/dam277/raw/master/src/images/Dart.png" />
-    <img height="40" width="70px" src="https://github.com/dam277/dam277/raw/master/src/images/Rust.png" />
-    <img height="40" width="70px" src="https://github.com/dam277/dam277/raw/master/src/images/Go.png" />
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Powershell.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Cpp.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Csharp.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Java.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Html.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Css.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Javascript.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Typescript.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Php.png" />
+    <img height="50" width="100px" src="https://github.com/dam277/dam277/raw/master/src/images/Dart.png" />
+    <img height="50" width="70px" src="https://github.com/dam277/dam277/raw/master/src/images/Rust.png" />
+    <img height="50" width="70px" src="https://github.com/dam277/dam277/raw/master/src/images/Go.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Powershell.png" />
                                                                                      <br />
     <h3> Databases </h3>
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Sql.png" />
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Sqlite.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Sql.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Sqlite.png" />
                                                                                      <br />
     <h3> Libraries </h3>
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Lwjgl.png" />
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/Sfml.png" />
-    <img height="40" src="https://github.com/dam277/dam277/raw/master/src/images/OpenGl.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Lwjgl.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Sfml.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/OpenGl.png" />
                                                                                      <br />
 </div>
 <div align="center">
