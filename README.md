@@ -10,6 +10,7 @@
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Cpp.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Csharp.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Java.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Swift.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Html.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Css.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Javascript.png" />
