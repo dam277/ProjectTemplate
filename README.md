@@ -38,6 +38,7 @@
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Three.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Next.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Vue.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Electron.png" />
                                                                                      <br />
 </div>
 <div align="center">
